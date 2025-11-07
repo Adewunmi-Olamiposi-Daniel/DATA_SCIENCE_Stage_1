@@ -13,4 +13,5 @@ def student_profile(**kwargs):
    for key, value in kwargs.items():
       print(f"{key.capitalize()}:{value}")
 student_profile(name="Olamiposi Adewunmi",age="20",level="400l",cgpa="4.18")
-student_profile(Name="Alex Freburg",age="20",level="300l",cgpa="2.15")
+
+student_profile(name="Alex Freburg",age="20",level="300l",cgpa="2.15")
