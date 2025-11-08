@@ -3,7 +3,7 @@
 📅 DAY 3 - WEDNESDAY, NOV 5
 
 Today’s focus was on functions, how to define them, call them, pass arguments, and use return values.
-We also learned about default parameters and scope (how variable visibility works inside vs. outside a function).
+I also learned about default parameters and scope (how variable visibility works inside vs. outside a function).
 
 📚 WHAT I LEARNED:
 
@@ -33,7 +33,7 @@ Return the CGPA and print remarks (Excellent, Good, or Needs Improvement).
 Today’s lesson made me realize that functions are the backbone of clean programming.
 They save time, make debugging easier, and help organize logic.
 I used to write everything in one block, but now I see how dividing tasks into functions improves clarity, reusability, and control.
-Understanding scope also taught me why some variables don’t “exist” outside the function — everything has its proper boundary.
+Understanding scope also taught me why some variables don’t “exist” outside the function, everything has its proper boundary.
 
 ✅ Status: Completed
 📅 Next Lesson: Default Arguments, *args, and **kwargs (DSWK2D4 — Thursday, Nov 6)
