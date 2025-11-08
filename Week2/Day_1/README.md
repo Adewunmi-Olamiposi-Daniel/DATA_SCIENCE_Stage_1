@@ -3,7 +3,7 @@
 — DAY 1 - MONDAY, NOV 3)
 
 
-We explored how to make Python repeat tasks automatically using loops.  
+I explored how to make Python repeat tasks automatically using loops.  
 Learned to iterate over **lists**, **ranges**, and **strings**, and how loops mimic real-world repetition.
 
 ---
