@@ -2,7 +2,7 @@
 
 — DAY 2 - TUESDAY, NOV 4
 
-We explored how loops can control other loops and how special keywords like break, continue, and pass help manage program flow logically.
+I explored how loops can control other loops and how special keywords like break, continue, and pass help manage program flow logically.
 This lesson deepened my understanding of how Python makes decisions inside loops — just like humans follow step-by-step choices when solving problems.
 
 📚 WHAT I LEARNED:
