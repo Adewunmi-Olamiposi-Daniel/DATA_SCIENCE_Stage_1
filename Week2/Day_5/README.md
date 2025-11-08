@@ -67,4 +67,4 @@ It’s like giving my code a safety net that helps it recover, explain, and cont
 Now I understand how try–except–else–finally make programs more professional, reliable, and user-centered.
 
 ✅ Status: Completed
-📅 Next Lesson: File Handling (open, read, write) — DSWK3D1
+📅 Next Lesson: Mini Project: Python Foundations Practical — 🧠 DSWK2D6
